@@ -1,0 +1,2 @@
+# Não há dependências externas para este sistema
+# Sistema usa apenas biblioteca padrão do Python
